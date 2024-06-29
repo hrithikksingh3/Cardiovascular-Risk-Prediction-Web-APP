@@ -26,7 +26,7 @@ pandas & numpy for data wrangling
 scikit-learn & XGBoost for the brains of the operation
 
 **Installation 📥**
-git clone https://github.com/yourusername/cardio-risk-predictor.git
+git clone https://github.com/hrithikksingh3/Cardiovascular-Risk-Prediction-Web-APP
 cd cardio-risk-predictor
 pip install -r requirements.txt
 streamlit run app.py
