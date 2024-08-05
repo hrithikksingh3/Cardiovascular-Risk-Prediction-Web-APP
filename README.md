@@ -26,10 +26,13 @@ pandas & numpy for data wrangling
 scikit-learn & XGBoost for the brains of the operation
 
 **Installation 📥**
-git clone https://github.com/hrithikksingh3/Cardiovascular-Risk-Prediction-Web-APP
-cd cardio-risk-predictor
-pip install -r requirements.txt
-streamlit run app.py
+`git clone https://github.com/hrithikksingh3/Cardiovascular-Risk-Prediction-Web-APP`
+
+`cd cardio-risk-predictor`
+
+`pip install -r requirements.txt`
+
+`streamlit run app.py`
 
 **Contribute and Make a Difference! 🌟**
 Got ideas? Found a bug? Want to add a feature? We're all ears! Fork this repo, make your changes, and submit a pull request. Let's make heart health accessible to everyone, together!
@@ -46,3 +49,13 @@ This app is for educational purposes only. It's cool, but it's not a substitute 
 [Twitter](https://twitter.com/Codersvoice_)<br>
 
 Remember, knowing is half the battle. Take charge of your heart health today! ❤️🏃‍♂️🥗
+## Contact
+For any questions or feedback, feel free to reach out to your- shrithik511@gmail.com
+
+<h2> I love coffee wanna buy me one😐👇</h2>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/codersvoice" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 120px; width: 600px;" >
+  </a>
+</p>
+
