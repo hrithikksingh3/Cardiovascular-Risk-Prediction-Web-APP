@@ -141,6 +141,7 @@ footer_css = """
     text-align: center;
     padding: 10px 0;
     font-size: 14px;
+    height : 10vh
 }
 h5{
 position : relative;
@@ -169,8 +170,6 @@ st.markdown(footer_css, unsafe_allow_html=True)
 # Footer content for my social profiles and about us.
 footer_content = """
 <div class="footer">
-    <h5>Follow Me</h5>
-    <hr>
     <div class="social-icons">
         <a href="https://in.linkedin.com/in/hrithik-kumar-singh-0a4127301" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
         <a href="https://github.com/hrithikksingh3" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
