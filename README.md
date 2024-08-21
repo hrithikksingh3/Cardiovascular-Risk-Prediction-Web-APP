@@ -11,6 +11,8 @@ Powered by XGBoost: We're using some serious machine learning muscle here!
 Data Visualization: See how your stats stack up.
 Educational Insights: Learn about the factors influencing your heart health.
 
+## Live link : https://cardiovascular-risk-prediction-bfc1.onrender.com/
+
 **How It Works 🛠️**
 
 Input Your Data: Age, sex, blood pressure, cholesterol... don't worry, we keep it confidential!
@@ -39,6 +41,8 @@ Got ideas? Found a bug? Want to add a feature? We're all ears! Fork this repo, m
 
 **Disclaimer ⚠️**
 This app is for educational purposes only. It's cool, but it's not a substitute for professional medical advice. Always consult with a healthcare provider for proper diagnosis and treatment.
+
+## For more info Read the Article : https://medium.com/@hrithikkumarsingh/predict-your-heart-health-in-seconds-with-the-cardiovascular-risk-prediction-web-app-c5f7bd4776ef
 
 **Connect with the Creator 🤝**<br>
 [LinkedIn](https://in.linkedin.com/in/hrithik-kumar-singh-0a4127301) <br>
